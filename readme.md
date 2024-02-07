@@ -2,8 +2,7 @@
 ## Cvičení 10: Výjimky
 
 ### 1
-Naprogramujte aplikaci `file.py`, která bude otevírat soubor input.txt
-Ve svém programu implementujte zpracování výjimky, pokud se nepodaří soubor otevřít.
+Ošetřete situaci v souboru `neexistujici_index.py`, aby program nespadnul při přístupu na neexistující index.
 
 ### 2
 V programu `game.py` zapracujte zpracováný výjimek. V zprávě uživateli zobrazte taktéž i hodnotu, jakou se uživatel pokusil zadat.
