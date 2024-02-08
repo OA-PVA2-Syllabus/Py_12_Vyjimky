@@ -1,5 +1,5 @@
 # PVA2 - Programování a vývoj aplikací
-## Cvičení 10: Výjimky
+## Cvičení 12: Výjimky
 
 ### 1 Neexistující index
 Ošetřete situaci v souboru `neexistujici_index.py`, aby program nespadnul při přístupu na neexistující index.
